@@ -1,4 +1,4 @@
-"""
+###내코드
 import sys
 n,m = map(int,sys.stdin.readline().split(" "))
 result=0
@@ -21,8 +21,8 @@ for i in range(n):
     result = max(result,min_value)
 
 print(result)
-"""
 
+###예시코드
 n,m = map(int,input().split())
 
 result =0
