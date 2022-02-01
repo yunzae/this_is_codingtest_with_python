@@ -1,3 +1,4 @@
+#내코드
 import sys
 n, k = map(int,sys.stdin.readline().split(" "))
 result=0
@@ -11,7 +12,7 @@ while (n!=1):
 print(result)
 
 
-####################
+####################예시코드1
 
 n,k = map(int,input().split())
 result=0
@@ -32,7 +33,7 @@ while n>1:
 
 print(result)
 
-####################
+####################예시코드2
 n, k =map(int,input().split())
 result = 0
 while True:
